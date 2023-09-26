@@ -68,16 +68,3 @@ Some facial landmark detection methods in literature:
 * 2016	IEEE Transactions on Image Processing	Face alignment via regressing local binary features
 * 2019	CVPR	Semantic Alignment: Finding Semantically Consistent Ground-Truth for Facial Landmark Detection
 * 2019	CVPR	Robust Facial Landmark Detection via Occlusion-Adaptive Deep Networks
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-Database	MOBIO	https://www.idiap.ch/dataset/mobio
-	2012	Bi-Modal Person Recognition on a Mobile Phone: using mobile phone data
-![image](https://github.com/nz0001na/Landmark_Detection_Methods/assets/32621160/01a9c31b-3a2e-4719-a448-505746c69fb3)
