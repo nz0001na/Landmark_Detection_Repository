@@ -5,8 +5,8 @@ Some facial landmark detection methods in literature:
 
 
 * 2017	TPAMI	Facial Landmark Detection with Tweaked Convolutional Neural Networks [[code]](https://github.com/ishay2b/VanillaCNN)
-* 2017	TPAMI	HyperFace: A Deep Multi-task Learning Framework for Face Detection, Landmark Localization, Pose Estimation, and Gender Recognition [[code]](https://github.com/takiyu/hyperface) 
- [[code2]] (https://github.com/shashanktyagi/HyperFace-TensorFlow-implementation)
+* 2017	TPAMI	HyperFace: A Deep Multi-task Learning Framework for Face Detection, Landmark Localization, Pose Estimation, and Gender Recognition [[code]](https://github.com/takiyu/hyperface) ,
+ [[code2]](https://github.com/shashanktyagi/HyperFace-TensorFlow-implementation)
 
 * 2017	FG	A Fully End-to-End Cascaded CNN for Facial Landmark Detection
 * 2017	CVPR	Robust FEC-CNN: A High Accuracy Facial Landmark Detection System
