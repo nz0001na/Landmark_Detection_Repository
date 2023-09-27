@@ -3,6 +3,15 @@
 Some facial landmark detection methods in literature: 
 (Keep updating...)
 
+# Survey
+*	2010	[ICPR]	A comparative study of facial landmark localization methods for face recognition using hog descriptors
+*	2013	[Journal on Image and Video Processing]	A comparative study of face landmarking techniques
+*	2014	[Journal of current Engineering and Technology]	Facial landmark localization-a literature survey
+*	2016	[Journal of Science Engineering and Technology]	Robust facial landmark detection using a mixture of synthetic and real images with dynamic weighting: A survey
+*	2018	[Neurocomputing]	Facial Feature Point Detection: A Comprehensive Survey
+
+
+
 # 2015
 * 2015	[Image and Vision Computing]	Approaching human level facial landmark localization by deep learning  [[code]](https://github.com/BobLiu20/FacialLandmark_Caffe)
 * 2015	[ECCV]	Facial Landmark Detection by Deep Multi-task Learning [[code]](https://github.com/zhzhanp/TCDCN-face-alignment)
